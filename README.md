@@ -4,7 +4,7 @@ Projeto desenvolvido usando HTML5, CSS3 & JavaScript do Projeto Alura Midi -  T6
 
 ## 🔗 Link do deploy
 
-Veja o projeto no ar no Github Pages [Neste Link]()
+Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.io/Alura-Midi/)
 
 
 ## 💻 Demonstração
