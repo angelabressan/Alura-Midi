@@ -1,6 +1,6 @@
 # 💻🚀 Projeto Alura Midi | Programa Oracle ONE Next Education
 
-- Projeto desenvolvido usando HTML5, CSS3 & JavaScript - Projeto Alura Midi -  T6 do programa ONE.
+- Projeto desenvolvido usando HTML5, CSS3 & JavaScript - Alura Midi -  T6 do programa ONE.
 
 ## 🔗 Link do deploy
 
