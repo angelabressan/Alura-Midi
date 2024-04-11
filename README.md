@@ -9,6 +9,7 @@ Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.i
 
 ## 💻 Demonstração
 
+https://github.com/angelabressan/Alura-Midi/assets/120230720/246f7a2b-af09-4416-967b-d208bec474d2
 
 ## 🚀 Tecnologias Utilizadas
 
