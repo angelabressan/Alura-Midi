@@ -1,10 +1,10 @@
-# 💻🚀 Projeto Alura Midi | Trilha Front End - Programa Oracle ONE Next Education
+# 💻🚀 Projeto Alura Midi | Programa Oracle ONE Next Education
 
-Projeto desenvolvido usando HTML5, CSS3 & JavaScript do Projeto Alura Midi -  T6 do programa ONE.
+- Projeto desenvolvido usando HTML5, CSS3 & JavaScript - Projeto Alura Midi -  T6 do programa ONE.
 
 ## 🔗 Link do deploy
 
-Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.io/Alura-Midi/)
+- Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.io/Alura-Midi/)
 
 
 ## 💻 Demonstração
